@@ -10,3 +10,4 @@
 (9) Print the result of POWER divided by DIVIDE, followed by a new line
 (10) Print the result of BREATH to the power LOVE
 (11) Changing binary to decimal
+(12) Printing all possible combinations of two letters, except oo
