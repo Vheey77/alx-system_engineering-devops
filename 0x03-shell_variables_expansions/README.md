@@ -7,3 +7,4 @@
 (6) Create a new local variable
 (7) Create a global variable
 (8) Adding value stored in a environmental variable
+(9) Print the result of POWER divided by DIVIDE, followed by a new line
