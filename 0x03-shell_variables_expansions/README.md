@@ -9,3 +9,4 @@
 (8) Adding value stored in a environmental variable
 (9) Print the result of POWER divided by DIVIDE, followed by a new line
 (10) Print the result of BREATH to the power LOVE
+(11) Changing binary to decimal
