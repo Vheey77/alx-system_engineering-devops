@@ -11,3 +11,4 @@
 (10) Print the result of BREATH to the power LOVE
 (11) Changing binary to decimal
 (12) Printing all possible combinations of two letters, except oo
+(13) Printing a number with two decimal places, followed by a new line
