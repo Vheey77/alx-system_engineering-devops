@@ -14,3 +14,4 @@
 (13) Printing a number with two decimal places, followed by a new line
 (14) Converting  a number from base 10 to base 16
 (15) A script that encodes and decodes text using the rot13 encryption
+(16) Printing every other line from the input, starting with the first line
