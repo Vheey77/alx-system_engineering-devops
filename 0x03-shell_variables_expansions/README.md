@@ -6,3 +6,4 @@
 (5) List of all local variables and environment variables, and functions
 (6) Create a new local variable
 (7) Create a global variable
+(8) Adding value stored in a environmental variable
